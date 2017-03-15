@@ -19,7 +19,7 @@ Fortunately for us, the Programming Club of our Institute was planning to organi
 I was already in contact with Saksham Sharma, one of the coordinators of PClub. According to his resume he already had experience with 4-5 Linux distros!! So I talked to him about various distros and which one I should prefer. He ofcourse recommended Ubuntu and also suggested me to go for multiple Linux distros once I'm familiar with various packages and utilities of Ubuntu.
 
 ### Problem with WiFi connectivity
-I was not aware about this but apparently HP laptops had some ancient trouble with accepting Ubuntu dual-booting. Like seriously, after I successfully installed Ubuntu, my laptop started showing problem.
+I was not aware about this but apparently HP laptops had some ancient trouble with accepting Ubuntu dual-booting. Like seriously,just after I successfully installed Ubuntu, my laptop started showing problems.
 
 First, it showed some weird broken packages and I had no idea how to fix them, then all hells broke loose when it refused to connect to wifi. I asked a senior of mine and he asked me probably my wifi driver was inactive. So for that , he suggested me to install some packages related to **Broadcom Corporation BCM43142 802.11b/g/n**. Finally after two odd days , I was able to access wifi signals but even then, my laptop wasn't able to create a wifi hotspot. I tried everything I could but it didn't work. Finally I gave up on that issue and I still struggle to get any hotspot through my laptop. :(
 
