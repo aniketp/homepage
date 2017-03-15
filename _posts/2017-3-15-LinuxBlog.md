@@ -5,7 +5,7 @@ author: Aniket Pandey
 ---
 
 ### What the hell is Linux
-Being a hardcore gamer , I had no interest in anything other than Windows. I did appreciate MacOS for the versatility it offered, although I had no intention of getting it anytime soon. Nor was I even aware about other operating systems or for the record, what would I gain from switching over to them.</br>
+Being a hardcore gamer , I had no interest in anything other than Windows. I did appreciate MacOS for the versatility it offered, although I had no intention of getting it anytime soon. Nor was I even aware about other operating systems or for the record, what would I gain from switching over to them.
 
 It was not until I came back to campus for the start of my second semester, I heard about Linux. I randomly asked a wingy of mine, Vardhan (also known as Dude!) about how he did his awesome techie stuff while he sat in front of his laptop whole day, completely engrossed in it. He said he had lately installed this OS called *Ubuntu 16.04* , a very famous distro of Linux in his Laptop. He went on explaining the awesome features that it offered, and how it was completely customisable and that you get to be the 'Superuser' of your machine. 
 
