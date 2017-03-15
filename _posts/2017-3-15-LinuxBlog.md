@@ -31,7 +31,7 @@ And who doesn't love Terminal, No I'm not talking about the hacker feel that it 
 >It's been two months since I installed Linux. And I would admit, initial learning curve for Linux is pretty steep, but you need patience and need to keep using it, cause its benefits are indispensable and the fruits are sweet :) 
 
 ### Triple Booting!!!
-After getting well accustomed to the environment of Linux and after many rounds of installing/uninstalling Ubuntu, I thought of going a step forward, installing another distro of linux alongside Ubuntu and Windows 10. However , I was reluctant to do so as the procedure seemed a bit nasty. And I was afraid if I mess up anything that could potentially destroy my laptop. But I had the guidance of my seniors, with their help, I finally installed *Linux Mint 18.1 'Serena'* as an alternative to Ubuntu.
+After getting well accustomed to the environment of Linux and after many rounds of installing/uninstalling Ubuntu, I thought of going a step forward, installing another distro of linux alongside Ubuntu and Windows 10. However , I was reluctant to do so as the procedure seemed a bit nasty. And I was afraid if I mess up anything that could potentially destroy my laptop. But I had the guidance of my seniors, with their help, I installed *Linux Mint 18.1 'Serena'* as an alternative to Ubuntu.
 
 Contrary to my belief of Mint overwriting the Ubuntu's Grub, it actually showed all three OS's at one place. So thankfully,I didn't have to update the grub. Also , Mint does seem to be a better option than Ubuntu (personal opinion), as it has more customisable options. Background theme options are cooler. And I'm actually writing this blog from Mint's text editor, which is also awesome.
 
