@@ -23,12 +23,12 @@ I was not aware about this but apparently HP laptops had some ancient trouble wi
 
 First, it showed some weird broken packages and I had no idea how to fix them, then all hells broke loose when it refused to connect to wifi. I asked a senior of mine and he asked me probably my wifi driver was inactive. So for that , he suggested me to install some packages related to **Broadcom Corporation BCM43142 802.11b/g/n**. Finally after two odd days , I was able to access wifi signals but even then, my laptop wasn't able to create a wifi hotspot. I tried everything I could but it didn't work. Finally I gave up on that issue and I still struggle to get any hotspot through my laptop. :(
 
-### When wonder starts to happen
+### When wonders start to happen
 What followed initial hiccup what an awesome experience I'd never forget. Today I feel much happier about my decision to install Linux, which surely changed my life. Now when I'm programming , I don't have to even touch my mousepad, I also don't have any headache of deciding which IDEs to download for which language. Its all in there. 
 
 And who doesn't love Terminal, No I'm not talking about the hacker feel that it gives you (surely that's a cool thing too), but everything is so much better once you get a feel of various commands. Wanna install an app? Cool, do it from the terminal. Wanna compile your code? You have the terminal. Wanna launch an IDE? Fire up terminal. 
 
->It's been two months since I installed Linux. And I would admit, initial learning curve for Linux is pretty steep, but you need patience and need to keep using it, cause its benefits are indispensable and its fruits are sweet :) 
+>It's been two months since I installed Linux. And I would admit, initial learning curve for Linux is pretty steep, but you need patience and need to keep using it, cause its benefits are indispensable and the fruits are sweet :) 
 
 ### Triple Booting!!!
 After getting well accustomed to the environment of Linux and after many rounds of installing/uninstalling Ubuntu, I thought of going a step forward, installing another distro of linux alongside Ubuntu and Windows 10. However , I was reluctant to do so as the procedure seemed a bit nasty. And I was afraid if I mess up anything that could potentially destroy my laptop. But I had the guidance of my seniors, with their help, I finally installed *Linux Mint 18.1 'Serena'* as an alternative to Ubuntu.
