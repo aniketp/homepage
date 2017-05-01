@@ -16,7 +16,7 @@ What is Git by the way? In layman's terms, Git is a tool through which you can k
 
 Looks hilarious right? :smile: Well, you can make it look better using Git. _Git is a Version Control System (VCS), which keeps track of your changes that you've made to your project as you keep working on it_. It is also advantageous in situations where multiple people are working on a project.
 
-Say you and your friend are working on a coding assignment. Suppose after a tedious amount of hardwork, you fixed a bug which was bothering you for days. You surely feel happy about your achievement (well you should be :simple\_smile:). But the next day, you wake up to find that the code is failing every single test case. Then your friend calls you and apologizes for the mess he made overnight. Now you're feeling frustated, cause you'll have to do it all again. 
+Say you and your friend are working on a coding assignment. Suppose after a tedious amount of hardwork, you fixed a bug which was bothering you for days. You surely feel happy about your achievement (well you should be :smiley:). But the next day, you wake up to find that the code is failing every single test case. Then your friend calls you and apologizes for the mess he made overnight. Now you're feeling frustated, cause you'll have to do it all again. 
 
 But this situation could have been avoided, had you been using Git on your project. What Git does is that it saves every change you made to your code so that whenever you feel like you've messed up, you can go back to the part you think is correct. Else you will have no choice but to revamp your code.
 
