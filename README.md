@@ -1,4 +1,4 @@
-### PLease Note
+### Please Note
 
 This repository is no longer maintained,
 
