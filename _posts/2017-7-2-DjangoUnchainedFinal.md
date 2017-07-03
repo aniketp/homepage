@@ -23,4 +23,6 @@ Well, to be honest, Bootstrap is great. It lets you create responsive UIs quickl
 I would not be able to write a custom CSS. Cause fixing margins and text-padding is out of option.  
 
 After going through all the templates available at _bootswatch_, I chose a theme called **Cerulean**. It had this nice 
-sky-blue navigation bar
+sky-blue navigation bar and various other features available. The basic design was supposed to have a profile sidebar,
+ a nav-bar and the main content. The index page will have the list of nominations out for application. Once the basic layout is
+ finalised, we'll work on adding more templates and quick links.
