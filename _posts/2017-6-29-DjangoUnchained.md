@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Django Unchaining
+title: Django Unchaining (Part-1)
 author: Aniket Pandey
 ---
 
@@ -32,5 +32,43 @@ There are three main components in Django
 
 * Models
 * Views
-* URLs
+* Templates
+
+#### Models
+
+> A model is the single, definitive source of information about your data. It contains the essential fields and behaviors
+ of the data you’re storing. Generally, each model maps to a single database table.
+
+Model is like the brain of your application. It contains the information about all the columns of each table in the database.
+ 
+#### Views
+
+> A view function, or view for short, is simply a Python function that takes a Web request and returns a Web response.
+ This response can be the HTML contents of a Web page, or a redirect, or a 404 error.
+ 
+Through views, we can handle requests from clients and return a response afterwards. The response is generally in form of
+rendered HTML page or in form of common data like JSON. JSON is extremely useful in creating web APIs through which we can 
+let server and client communicate quickly. Also, both can be written in different languages and still work just fine.
+
+#### Templates
+
+>  A template contains the static parts of the desired HTML output as well as some special syntax describing how dynamic 
+content will be inserted.
+
+Templates are what let you create user friendly interface. Django has its own template system through which you can write
+ python inside of html. 
+ 
+There are a lot of other functionalities offered in django like _forms_, _admin portal_, _user authentication_, _csrf_, etc.
+We used a major part of what django had to offer. 
+
+### IITK Authentication
+
+The authentication system in django makes use of the users stored in database. Since we did not have anyone's account pre-
+recorded, we had to rely on the fact that once someone logs in, we can ask them to fill the rest of their details like, name,
+roll no, address etc. However, there was no way of limiting the users to the IITK junta. Since anybody can log in and pose
+as a valid student, we had to override this authentication system. 
+
+Fortunately, django allows us to have our own authentication system, so we wrote it by ourselves, using _new-webmail_'s database,
+we were able to identify if someone who is logging in is actually a student of IIT Kanpur. This was the first major step in our project.
+
 
